@@ -1,0 +1,4 @@
+1. создал папку git
+2. добавил в локальный git report.txt
+3. add в git
+4. commit
