@@ -2,4 +2,9 @@
 2. добавил в локальный git report.txt
 3. add в git
 4. commit
-5. git pull
+5. исправляем ошибки
+6. настраиваем токен
+7. настраиваем ssh соединение
+8. git add
+9. git commit
+10. git push
